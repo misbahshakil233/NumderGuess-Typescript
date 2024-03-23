@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 
 import inquirer from "inquirer";
-
+console.log("welcome in number guess game")
 
 const randomNumber=Math.ceil(Math.random()*10) ;
 
